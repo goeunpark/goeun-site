@@ -1,7 +1,7 @@
-# goeun personal site
+# ✨✨ goeun personal site ✨✨
 
 ## how even
-1. (set up typescript in gatsby)[https://blog.logrocket.com/set-up-a-typescript-gatsby-app/]
+1. [set up typescript in gatsby](https://blog.logrocket.com/set-up-a-typescript-gatsby-app/)
 2. `gatsby develop`
 
 
